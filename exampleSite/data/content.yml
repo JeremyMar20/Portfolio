@@ -1,12 +1,12 @@
 ########################## hero area ##########################
 hero:
-  title: "I'm Burton Guster"
+  title: "I'm Jeremy Marino"
 
   # animated text loop
   occupations:
     - 'Web Developer'
-    - 'Pharmaceutical Salesman'
-    - 'Private Detective'
+    - 'Volunteer'
+    - 'Person'
 
   # hero background image
   bg_image: 'images/background.jpg'
